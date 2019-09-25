@@ -1,0 +1,32 @@
+D:\POC_Douments\Sample WebAPI\SampleWebApi\SampleWebApi\bin\Debug\netcoreapp2.1\Microsoft.Azure.Documents.ServiceInterop.dll
+D:\POC_Douments\Sample WebAPI\SampleWebApi\SampleWebApi\bin\Debug\netcoreapp2.1\Cosmos.CRTCompat.dll
+D:\POC_Douments\Sample WebAPI\SampleWebApi\SampleWebApi\bin\Debug\netcoreapp2.1\SampleWebApi.deps.json
+D:\POC_Douments\Sample WebAPI\SampleWebApi\SampleWebApi\bin\Debug\netcoreapp2.1\SampleWebApi.runtimeconfig.json
+D:\POC_Douments\Sample WebAPI\SampleWebApi\SampleWebApi\bin\Debug\netcoreapp2.1\SampleWebApi.runtimeconfig.dev.json
+D:\POC_Douments\Sample WebAPI\SampleWebApi\SampleWebApi\bin\Debug\netcoreapp2.1\SampleWebApi.dll
+D:\POC_Douments\Sample WebAPI\SampleWebApi\SampleWebApi\bin\Debug\netcoreapp2.1\SampleWebApi.pdb
+D:\POC_Douments\Sample WebAPI\SampleWebApi\SampleWebApi\obj\Debug\netcoreapp2.1\SampleWebApi.csproj.CoreCompileInputs.cache
+D:\POC_Douments\Sample WebAPI\SampleWebApi\SampleWebApi\obj\Debug\netcoreapp2.1\SampleWebApi.RazorAssemblyInfo.cache
+D:\POC_Douments\Sample WebAPI\SampleWebApi\SampleWebApi\obj\Debug\netcoreapp2.1\SampleWebApi.RazorAssemblyInfo.cs
+D:\POC_Douments\Sample WebAPI\SampleWebApi\SampleWebApi\obj\Debug\netcoreapp2.1\SampleWebApi.AssemblyInfoInputs.cache
+D:\POC_Douments\Sample WebAPI\SampleWebApi\SampleWebApi\obj\Debug\netcoreapp2.1\SampleWebApi.AssemblyInfo.cs
+D:\POC_Douments\Sample WebAPI\SampleWebApi\SampleWebApi\obj\Debug\netcoreapp2.1\SampleWebApi.RazorTargetAssemblyInfo.cache
+D:\POC_Douments\Sample WebAPI\SampleWebApi\SampleWebApi\obj\Debug\netcoreapp2.1\SampleWebApi.dll
+D:\POC_Douments\Sample WebAPI\SampleWebApi\SampleWebApi\obj\Debug\netcoreapp2.1\SampleWebApi.pdb
+D:\POC_Douments\Sample WebAPI\SampleWebApi\SampleWebApi\obj\Debug\netcoreapp2.1\SampleWebApi.csprojAssemblyReference.cache
+D:\POC_Douments\CosmosDB_project\SampleWebApi\SampleWebApi\obj\Debug\netcoreapp2.1\SampleWebApi.csprojAssemblyReference.cache
+D:\POC_Douments\CosmosDB_project\SampleWebApi\SampleWebApi\obj\Debug\netcoreapp2.1\SampleWebApi.csproj.CoreCompileInputs.cache
+D:\POC_Douments\CosmosDB_project\SampleWebApi\SampleWebApi\obj\Debug\netcoreapp2.1\SampleWebApi.RazorAssemblyInfo.cache
+D:\POC_Douments\CosmosDB_project\SampleWebApi\SampleWebApi\obj\Debug\netcoreapp2.1\SampleWebApi.RazorAssemblyInfo.cs
+D:\POC_Douments\CosmosDB_project\SampleWebApi\SampleWebApi\obj\Debug\netcoreapp2.1\SampleWebApi.AssemblyInfoInputs.cache
+D:\POC_Douments\CosmosDB_project\SampleWebApi\SampleWebApi\obj\Debug\netcoreapp2.1\SampleWebApi.AssemblyInfo.cs
+D:\POC_Douments\CosmosDB_project\SampleWebApi\SampleWebApi\obj\Debug\netcoreapp2.1\SampleWebApi.dll
+D:\POC_Douments\CosmosDB_project\SampleWebApi\SampleWebApi\obj\Debug\netcoreapp2.1\SampleWebApi.pdb
+D:\POC_Douments\CosmosDB_project\SampleWebApi\SampleWebApi\bin\Debug\netcoreapp2.1\Microsoft.Azure.Documents.ServiceInterop.dll
+D:\POC_Douments\CosmosDB_project\SampleWebApi\SampleWebApi\bin\Debug\netcoreapp2.1\Cosmos.CRTCompat.dll
+D:\POC_Douments\CosmosDB_project\SampleWebApi\SampleWebApi\bin\Debug\netcoreapp2.1\SampleWebApi.deps.json
+D:\POC_Douments\CosmosDB_project\SampleWebApi\SampleWebApi\bin\Debug\netcoreapp2.1\SampleWebApi.runtimeconfig.json
+D:\POC_Douments\CosmosDB_project\SampleWebApi\SampleWebApi\bin\Debug\netcoreapp2.1\SampleWebApi.runtimeconfig.dev.json
+D:\POC_Douments\CosmosDB_project\SampleWebApi\SampleWebApi\bin\Debug\netcoreapp2.1\SampleWebApi.dll
+D:\POC_Douments\CosmosDB_project\SampleWebApi\SampleWebApi\bin\Debug\netcoreapp2.1\SampleWebApi.pdb
+D:\POC_Douments\CosmosDB_project\SampleWebApi\SampleWebApi\obj\Debug\netcoreapp2.1\SampleWebApi.RazorTargetAssemblyInfo.cache
